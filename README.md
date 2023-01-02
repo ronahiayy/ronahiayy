@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronahiayy
+
 - 👀 I’m interested in Machine Learning, MLOps and Python.
 
 <!---
